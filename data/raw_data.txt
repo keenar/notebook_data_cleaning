@@ -1,0 +1,16 @@
+Clinton,PENNSYLVANIA,518
+Franklin,North Carolina,654
+ARGLINTON,California,517
+salem,Michigan,990
+Centerville,NEW YORK,878
+Dayton,Michigan ,347
+Clinton,PENNSYLVANIA,518
+Franklin,North Carolina,654
+ARGLINTON,California,517
+salem,Michigan ,990
+Centerville,NEW YORK,878
+Dayton,Michigan ,347
+Town,Georgetown,433
+Town,Georgetown ,433
+Fairview,Fairville,321
+Fairview ,Fairville,233
